@@ -2,9 +2,7 @@
 This RAG URL Reader is an application designed to load data from URLs and generate answers based on the provided 
 context using Large Language Models (LLMs). This application is intended to offer users contextually appropriate 
 responses to their inputs, aiding in information retrieval and facilitating smoother interaction within the 
-given context. It serves as a complement to the concepts discussed in the accompanying 
-[YouTube video](https://youtu.be/YBXD6Kq0-oE), offering a practical implementation 
-of the discussed techniques.
+given context. 
  
 ![RAG URL Reader](images/rag-diagram.png)
 
@@ -60,7 +58,21 @@ Run the main application script:
  
 # Contribution
 Contributions to this project are welcome! Feel free to submit bug reports, feature requests, or pull 
-requests to help improve the functionality and usability of the RAG URL Reader application.
+requests to help improve the functionality and usability of the RAG SQL Reader application.
 
 # Disclaimer
 This application is intended for educational and informational purposes only. 
+
+
+# License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+# Contact
+For any questions or suggestions, please reach out to me:
+
+Email: ammubharatram@gmail.com
+
+GitHub username: ammubharatram
+
+[LinkedIn Profile](https://www.linkedin.com/in/bharatramammu/)
+
