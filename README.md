@@ -28,7 +28,7 @@ To install the RAG URL Reader application, follow these steps:
 
 Clone the repository:
 
-    git clone https://github.com/Eduardovasquezn/rag-url-reader.git
+    git clone https://github.com/ammubharatram/rag-url-reader.git
 
 Navigate to the project directory:
 
@@ -64,9 +64,3 @@ requests to help improve the functionality and usability of the RAG URL Reader a
 
 # Disclaimer
 This application is intended for educational and informational purposes only. 
-
-# Enjoyed Using RAG URL Reader? Subscribe to My Channel!
-If you found the RAG URL Reader helpful and enjoyed using it, consider subscribing to my 
-[YouTube channel](https://www.youtube.com/channel/UCYZ_si4TG801SAuLrNl-v-g?sub_confirmation=1) for more tutorials, 
-tips, and projects related to Python, AI, and web development. Your support helps me create more valuable content 
-for the community!
